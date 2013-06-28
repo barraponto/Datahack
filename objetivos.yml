@@ -1,0 +1,45 @@
+---
+titulo: Transparência HackDay
+tipo:   Público
+texto:  Libere 4 Bytes começando com 0000, 0101, 1000 e 1010
+premio: 4k
+---
+titulo: Hackathon de Dados Educacionais
+tipo:   Público
+texto:  Libere 4 Bytes começando com 0000
+premio: 2k
+---
+titulo: Hackathon da Câmara Municipal de São Paulo
+tipo:   Público
+texto:  Libere 4 Bytes começando com 0101
+premio: 4k
+---
+titulo: International Space Apps Challenge
+tipo:   Público
+texto:  Libere 4 Bytes começando com 1000
+premio: 10k
+---
+titulo: Hackathon do Código Florestal
+tipo:   Público
+texto:  Libere 4 Bytes começando com 1010
+premio: 2k
+---
+titulo: HackDay Transporte Público
+tipo:   Público
+texto:  Totalize 8 Bytes começando com 0101
+premio: 4k
+---
+titulo: MoendoGente.org
+tipo:   Privado
+texto:  Publique 01011010 e 10100011
+premio: 12k
+---
+titulo: InfoAmazonia.org
+tipo:   Privado
+texto:  Publique 01011110
+premio: 8k
+---
+titulo: rodAda Hacker
+tipo:   Público
+texto:  Libere 1 Byte com uma programadora na equipe
+premio: 3k
