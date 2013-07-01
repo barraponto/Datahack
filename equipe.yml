@@ -1,59 +1,104 @@
 H001:
-  titulo: Dries Buytaert
-  tipo:   Desenvolvedor PHP
-  texto:  Produz 1 Bit a mais pra cada desenvolvedor PHP na mesa.
-  bits:   2
-H002:
-  titulo: Guido Von Rossum
-  tipo:   Desenvolvedor Python
-  texto:  Todos os Desenvolvedores Python produzem 1 bit a mais.
-  bits:   2
-H003:
-  titulo: David Heinemeier Hansson
-  tipo:   Desenvolvedor Ruby
-  texto:  Enquanto DHH estiver em jogo, todo Projeto Ruby opera com seu
-          efeito ótimo.
-  bits:   2
-H004:
   titulo: Ryan Dahl
   tipo:   Desenvolvedor Javascript
   texto:  Produz 1 bit a mais para cada Projeto Javascript na mesa.
   bits:   1
-H005:
+H002:
+  titulo: Mike Bostock
+  tipo:   Desenvolvedor Javascript
+  texto:  Mike Bostock conta como um Designer na hora de definir o Byte.
+  bits:   1
+H003:
   titulo: John Resig
   tipo:   Desenvolvedor Javascript
-  texto:  Enquanto John Resig estiver em jogo, um desenvolvedor de cada equipe
-          pode operar Projetos Javascript com efeito máximo.
+  texto:  Enquanto John Resig estiver em jogo, Desenvolvedores Iniciantes de
+          todas as equipes podem operar Projetos Javascript com efeito máximo.
   bits:   2
-H006:
-  titulo: Jeremy Ashkenas
-  tipo:   Desenvolvedor Javascript
-  texto:  O custo dos Projetos Javascript caem 1 bit.
-  bits:   3
-H007:
-  titulo: Brendan Eich
-  tipo:   Desenvolvedor Javascript
-  texto:  Para cada Desenvolvedor Javascript em jogo, produz 1 bit a menos.
-  bits:   5
-H008:
-  titulo: TJ Holowaychuck
-  tipo:   Desenvolvedor Javascript
-  texto:  Quando TJ Holowaychuck entra em jogo, coloque um Projeto Javascript em
-          jogo sem pagar o custo de invocação em bits.
-  bits:   4
-H009:
+H004:
   titulo: Isaac Schlueter
   tipo:   Desenvolvedor Javascript
   texto:  Quando Isaac entra em jogo, procure no baralho por um Projeto de
           Javascript e ponha-o na sua mão.
   bits:   2
-H010:
-  titulo: Mike Bostock
+H005:
+  titulo: TJ Holowaychuck
   tipo:   Desenvolvedor Javascript
-  texto:  Mike Bostock conta como um Designer na hora de definir o Byte.
+  texto:  Quando TJ Holowaychuck entra em jogo, coloque um Projeto Javascript em
+          jogo sem pagar o custo de invocação em bits.
+  bits:   3
+H006:
+  titulo: Jeremy Ashkenas
+  tipo:   Desenvolvedor Javascript
+  texto:  O custo dos Projetos Javascript caem 1 bit para todas as equipes.
+  bits:   3
+H007:
+  titulo: Matt Mullenweg
+  tipo:   Desenvolvedor PHP
+  texto:  Produz 1 Bit a mais pra cada designer na equipe.
+  bits:   1
+H008:
+  titulo: Dries Buytaert
+  tipo:   Desenvolvedor PHP
+  texto:  Produz 1 Bit a mais pra cada desenvolvedor PHP na mesa.
+  bits:   1
+H009:
+  titulo: Ryan McCue
+  tipo:   Desenvolvedor PHP
+  texto:  Quando Ryan McCue entra em uma equipe, devolva um Projeto deprecado
+          ao jogo.
+  bits:   2
+H010:
+  titulo: Michel Fortin
+  tipo:   Desenvolvedor PHP
+  texto:  Gera 1 bit toda vez que um Projeto é deprecado.
   bits:   2
 H011:
-  titulo: Bart van den Eijnden
-  tipo:   Desenvolvedor Javascript
-  texto:  Mike Bostock conta como um Designer na hora de definir o Byte.
+  titulo: Angela Byron
+  tipo:   Desenvolvedor PHP
+  texto:  Todos os Desenvolvedores iniciantes passam a produzir 1 bit.
+  bits:   3
+H012:
+  titulo: Fabien Potencier
+  tipo:   Desenvolvedor PHP
+  texto:  Toda vez que um Projeto PHP for deprecado, Fabien Potencier passa a
+          produzir um bit a mais, permanentemente.
+  bits:   3
+H013:
+  titulo: Guido Von Rossum
+  tipo:   Desenvolvedor Python
+  texto:  Todos os Desenvolvedores Python produzem 1 bit a mais.
+  bits:   1
+H014:
+  titulo: Ricardo Garcia
+  tipo:   Desenvolvedor Python
+  texto:  Todos os Designers definem 1 bit a mais no byte.
+  bits:   1
+H015:
+  titulo: Lynn Root
+  tipo:   Desenvolvedor Python
+  texto:  Todos os Desenvolvedores Iniciantes produzem 1 bit a mais.
+  bits:   2
+H016:
+  titulo: Mark Pilgrim
+  tipo:   Desenvolvedor Python
+  texto:  Quando Mark Pilgrim entra em jogo, pegue um Desenvolvedor Iniciante
+          de outra equipe e coloque na sua.
+  bits:   2
+H017:
+  titulo: Aaron Swartz
+  tipo:   Desenvolvedor Python
+  texto:  Aaron Swartz não tem custo de manutenção. Depois de 4 rodadas, Aaron
+          sai do jogo, deixando 24 bits para sua equipe e 6 para todas as
+          outras.
+  bits:   3
+H018:
+  titulo: Pablo Hoffman
+  tipo:   Desenvolvedor Python
+  texto:  O custo de Hardware cai por $1.
+  bits:   3
+H019:
+  titulo: David Heinemeier Hansson
+  tipo:   Desenvolvedor Ruby
+  texto:  Enquanto DHH estiver em jogo, todo Projeto Ruby opera com seu
+          efeito ótimo.
   bits:   2
