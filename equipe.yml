@@ -97,8 +97,34 @@ H018:
   texto:  O custo de Hardware cai por $1.
   bits:   3
 H019:
+  titulo: Chris Eppstein
+  tipo:   Desenvolvedor Ruby
+  texto:  Designers passam a definir 1 bit a mais.
+  bits:   1
+H020:
+  titulo: Yukihiro Matsumoto
+  tipo:   Desenvolvedor Ruby
+  texto:  Os Desenvolvedores Ruby passam a produzir 1 bit a mais.
+  bits:   1
+H021:
   titulo: David Heinemeier Hansson
   tipo:   Desenvolvedor Ruby
   texto:  Enquanto DHH estiver em jogo, todo Projeto Ruby opera com seu
           efeito ótimo.
   bits:   2
+H022:
+  titulo: Why the Lucky Stiff
+  tipo:   Desenvolvedor Ruby
+  texto:  Quando _why entra em jogo, pegue um Desenvolvedor de outra equipe.
+          Quando _why sai de jogo, tire esse Desenvolvedor de jogo.
+  bits:   2
+H023:
+  titulo: Scott Chacon
+  tipo:   Desenvolvedor Ruby
+  texto:  Scott Chacon pode manter dois Projetos Ruby.
+  bits:   3
+H024:
+  titulo: Nathan Weizenbaum
+  tipo:   Desenvolvedor Ruby
+  texto:  Designers passam a produzir 1 bit como Desenvolvedores.
+  bits:   3
