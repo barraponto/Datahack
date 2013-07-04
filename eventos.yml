@@ -28,16 +28,6 @@ B006:
   tipo:   Público
   texto:  Totalize 8 Bytes começando com 0101
   premio: 4k
-B007:
-  titulo: MoendoGente.org
-  tipo:   Privado
-  texto:  Publique 01011010 e 10100011
-  premio: 12k
-B008:
-  titulo: InfoAmazonia.org
-  tipo:   Privado
-  texto:  Publique 01011110
-  premio: 8k
 B009:
   titulo: rodAda Hacker
   tipo:   Público
