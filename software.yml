@@ -1,7 +1,7 @@
 S001:
   titulo:    jQuery
   linguagem: Javascript
-  efeito:    Rende 1 bits a mais.
+  efeito:    Rende 1 bit a mais.
   custo:     1
 S002:
   titulo:    Backbone
@@ -58,36 +58,36 @@ S012:
   linguagem: PHP
   efeito:    Desenvolvedores produzindo dinheiro rendem 1 bit mesmo assim.
   custo:     3
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
+S013:
+  titulo:    Flask
+  linguagem: Python
+  efeito:    Rende 1 bit a mais.
+  custo:     1
+S014:
+  titulo:    Django
+  linguagem: Python
+  efeito:    Pode trocar $1 por 1 bit.
+  custo:     2
+S015:
+  titulo:    Twisted
+  linguagem: Python
+  efeito:    Um desenvolvedor pode gerar em bits o que geraria em dinheiro.
+  custo:     2
+S016:
+  titulo:    Scrapy
+  linguagem: Python
+  efeito:    Rende 3 bits se o Evento atual não for um Bug.
+  custo:     3
+S017:
+  titulo:    NLTK
+  linguagem: Python
+  efeito:    Gera 1 bit sempre que algum byte é produzido.
+  custo:     3
+S018:
+  titulo:    Plone
+  linguagem: Python
+  efeito:    Gera 1 bit a mais para cada Hardware da sua equipe.
+  custo:     3
 S001:
   titulo:    
   linguagem: 
