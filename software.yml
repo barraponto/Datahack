@@ -21,43 +21,43 @@ S004:
 S005:
   titulo:    D3
   linguagem: Javascript
-  efeito:    Rende 3 bits a mais.
+  efeito:    Rende 2 bits a mais.
   custo:     3
 S006:
   titulo:    OpenLayers
   linguagem: Javascript
-  efeito:    Coloca outro evento na mesa.
+  efeito:    Pode comprar uma carta.
   custo:     3
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
+S007:
+  titulo:    Wordpress
+  linguagem: PHP
+  efeito:    Um Designer define 1 bit a mais.
+  custo:     1
+S008:
+  titulo:    Drupal
+  linguagem: PHP
+  efeito:    Um Designer pode operar como desenvolvedor.
+  custo:     2
+S009:
+  titulo:    Mediawiki
+  linguagem: PHP
+  efeito:    Rende 2 bits a mais.
+  custo:     2
+S010:
+  titulo:    Simplepie
+  linguagem: PHP
+  efeito:    Rende 3 bits se o Evento atual não for um Bug.
+  custo:     3
+S011:
+  titulo:    Symfony
+  linguagem: PHP
+  efeito:    Rende 1 bit a mais para cada projeto PHP da sua equipe.
+  custo:     3
+S012:
+  titulo:    Laravel
+  linguagem: PHP
+  efeito:    Desenvolvedores produzindo dinheiro rendem 1 bit mesmo assim.
+  custo:     3
 S001:
   titulo:    
   linguagem: 
