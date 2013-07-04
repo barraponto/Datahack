@@ -88,33 +88,33 @@ S018:
   linguagem: Python
   efeito:    Gera 1 bit a mais para cada Hardware da sua equipe.
   custo:     3
-S001:
-  titulo:    
-  linguagem: 
+S019:
+  titulo:    Jekyll
+  linguagem: Ruby
+  efeito:    Rende 1 bit a mais.
+  custo:     1
+S020:
+  titulo:    Compass
+  linguagem: Ruby
+  efeito:    Gera 1 bit a mais por designer na equipe.
+  custo:     2
+S021:
+  titulo:    Cucumber
+  linguagem: Ruby
+  efeito:    Rende $2 a mais se o Evento atual for um Bug. 
+  custo:     2
+S022:
+  titulo:    Nokogiri
+  linguagem: Ruby
   efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
-S001:
-  titulo:    
-  linguagem: 
-  efeito:    
-  custo:     
+  custo:     3
+S023:
+  titulo:    Hackety Hack
+  linguagem: Ruby
+  efeito:    O Desenvolvedor Iniciante produz 2 bits a mais.
+  custo:     3
+S024:
+  titulo:    Rails
+  linguagem: Ruby
+  efeito:    Rende 1 bit e $1 a mais toda rodada.
+  custo:     3
