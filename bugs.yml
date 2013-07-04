@@ -33,18 +33,17 @@ E011:
   titulo: Problemas com codificação de caracteres
   texto:  Todos os desenvolvedors produzem 1 bit a menos.
 E012:
-  titulo: DrupalCamp
-  texto:  Libere 1 byte com Drupal na equipe.
-          O Desenvolvedor Iniciante pode operar PHP com efeito máximo.
+  titulo: Programação Orientada à Gambiarra
+  texto:  Softwares usados nessa rodada são descartados.
 E013:
-  titulo: RailsRubmle
-  texto:  Libere 1 Byte com Rails na equipe.
-          O Desenvolvedor Iniciante pode operar Ruby com efeito máximo.
+  titulo: Vampiros do Suporte
+  texto:  Perde 1 bit para cada Software da sua Equipe.
 E014:
-  titulo: Welcome to the Django
-  texto:  Libere 1 Byte com Django na equipe.
-          O Desenvolvedor Iniciante pode operar Python com efeito máximo.
+  titulo: Rotina
+  texto:  Os desenvolvedores fazem a mesma coisa que fizeram
+          na rodada anterior. 
 E015:
-  titulo: Front in Rio
-  texto:  Libere 1 byte com jQery na equipe.
-          O Desenvolvedor Iniciante pode operar Javascript com efeito máximo.
+  titulo: Falhas no cache
+  texto:  Ao completar um Byte, jogue apenas X dados para definir os valores
+          de cada bit -- os outros repetem o Byte anterior. X é o número de
+          Desenvolvedores na equipe.
