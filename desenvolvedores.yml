@@ -1,7 +1,7 @@
 H001:
   titulo: Ryan Dahl
   tipo:   Desenvolvedor Javascript
-  texto:  Produz 1 bit a mais para cada Projeto Javascript na mesa.
+  texto:  Produz 1 bit a mais para cada Software Javascript na mesa.
   bits:   1
   renda:  4
 H002:
@@ -14,27 +14,27 @@ H003:
   titulo: John Resig
   tipo:   Desenvolvedor Javascript
   texto:  Enquanto John Resig estiver em jogo, Desenvolvedores Iniciantes de
-          todas as equipes podem operar Projetos Javascript com efeito máximo.
+          todas as equipes podem operar Softwares Javascript com efeito máximo.
   bits:   2
   renda:  2
 H004:
   titulo: Isaac Schlueter
   tipo:   Desenvolvedor Javascript
-  texto:  Quando Isaac entra em jogo, procure no baralho por um Projeto de
+  texto:  Quando Isaac entra em jogo, procure no baralho por um Software de
           Javascript e ponha-o na sua mão.
   bits:   2
   renda:  3
 H005:
   titulo: TJ Holowaychuck
   tipo:   Desenvolvedor Javascript
-  texto:  Quando TJ Holowaychuck entra em jogo, coloque um Projeto Javascript em
+  texto:  Quando TJ Holowaychuck entra em jogo, coloque um Software Javascript em
           jogo sem pagar o custo de invocação em bits.
   bits:   3
   renda:  4
 H006:
   titulo: Jeremy Ashkenas
   tipo:   Desenvolvedor Javascript
-  texto:  O custo dos Projetos Javascript caem 1 bit para todas as equipes.
+  texto:  O custo dos Softwares Javascript caem 1 bit para todas as equipes.
   bits:   3
   renda:  4
 H007:
@@ -50,16 +50,16 @@ H008:
   bits:   1
   renda:  4
 H009:
-  titulo: Ryan McCue
+  titulo: Ryan Parman
   tipo:   Desenvolvedor PHP
-  texto:  Quando Ryan McCue entra em uma equipe, devolva um Projeto deprecado
+  texto:  Quando Ryan McCue entra em uma equipe, devolva um Software deprecado
           ao jogo.
   bits:   2
   renda:  3
 H010:
   titulo: Michel Fortin
   tipo:   Desenvolvedor PHP
-  texto:  Gera 1 bit toda vez que um Projeto é deprecado.
+  texto:  Gera 1 bit toda vez que um Software é deprecado.
   bits:   2
   renda:  3
 H011:
@@ -71,7 +71,7 @@ H011:
 H012:
   titulo: Fabien Potencier
   tipo:   Desenvolvedor PHP
-  texto:  Toda vez que um Projeto PHP for deprecado, Fabien Potencier passa a
+  texto:  Toda vez que um Software PHP for deprecado, Fabien Potencier passa a
           produzir um bit a mais, permanentemente.
   bits:   3
   renda:  3
@@ -129,7 +129,7 @@ H020:
 H021:
   titulo: David Heinemeier Hansson
   tipo:   Desenvolvedor Ruby
-  texto:  Enquanto DHH estiver em jogo, todo Projeto Ruby opera com seu
+  texto:  Enquanto DHH estiver em jogo, todo Software Ruby opera com seu
           efeito ótimo.
   bits:   2
   renda:  5
@@ -143,7 +143,7 @@ H022:
 H023:
   titulo: Scott Chacon
   tipo:   Desenvolvedor Ruby
-  texto:  Scott Chacon pode manter dois Projetos Ruby.
+  texto:  Scott Chacon pode manter dois Softwares Ruby.
   bits:   3
   renda:  4
 H024:
