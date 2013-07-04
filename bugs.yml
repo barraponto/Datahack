@@ -1,0 +1,58 @@
+E001:
+  titulo: Falha de segurança
+  texto:  Pague novamente o custo do seu Software mais caro.
+E002:
+  titulo: Firewall Paranóico
+  texto:  O custo dos Softwares aumenta em $1.
+E003:
+  titulo: Incêndio
+  texto:  Descarte 1 Hardware.
+E004:
+  titulo: Magia Negra
+  texto:  Para cada Software da sua equipe, pague 1 bit ou descarte-o.
+E005:
+  titulo: Unicórnios
+  texto:  Nenhuma equipe pode produzir Bytes.
+E006:
+  titulo: Piadinha Homofóbica
+  texto:  Pague 1 bit por membro da equipe ou perca 1 membro aleatório
+          da equipe.
+E007:
+  titulo: rodAda Hacker
+  texto:  Libere 1 Byte com uma programadora na equipe
+E008:
+  titulo: BrazilJS
+  texto:  Libere 1 Byte com um Software Javascript na equipe.
+          Softwares e Desenvolvedores Javascript custam 1 menos para
+          entrar em jogo.
+E009:
+  titulo: Python Brasil
+  texto:  Libere 1 Byte com um Software Python na equipe.
+          Softwares e Desenvolvedores Python custam 1 menos para
+          entrar em jogo.
+E010:
+  titulo: PHP Conference Brasil
+  texto:  Libere 1 Byte com um Software PHP na equipe.
+          Softwares e Desenvolvedores PHP custam 1 menos para
+          entrar em jogo.
+E011:
+  titulo: RubyConf Brasil
+  texto:  Libere 1 Byte com um Software Ruby na equipe.
+          Softwares e Desenvolvedores Ruby custam 1 menos para
+          entrar em jogo.
+E012:
+  titulo: DrupalCamp
+  texto:  Libere 1 byte com Drupal na equipe.
+          O Desenvolvedor Iniciante pode operar PHP com efeito máximo.
+E013:
+  titulo: RailsRubmle
+  texto:  Libere 1 Byte com Rails na equipe.
+          O Desenvolvedor Iniciante pode operar Ruby com efeito máximo.
+E014:
+  titulo: Welcome to the Django
+  texto:  Libere 1 Byte com Django na equipe.
+          O Desenvolvedor Iniciante pode operar Python com efeito máximo.
+E015:
+  titulo: Front in Rio
+  texto:  Libere 1 byte com jQery na equipe.
+          O Desenvolvedor Iniciante pode operar Javascript com efeito máximo.
