@@ -106,8 +106,8 @@ S021:
 S022:
   titulo:    Nokogiri
   linguagem: Ruby
-  efeito:    
-  custo:     3
+  efeito:    Rende 2 bits se o Evento atual não for um Bug.
+  custo:     2
 S023:
   titulo:    Hackety Hack
   linguagem: Ruby

@@ -1,20 +1,20 @@
 A001:
-  titulo: Evangelista
+  titulo: Evangelista (x4)
   texto:  Pode pegar 1 Desenvolvedor de outra equipe, desde que sua equipe
           possua um Software da mesma linguagem.
 A002:
-  titulo: Portabilidade
+  titulo: Portabilidade (x4)
   texto:  Cria uma cópia de um Software em outra linguagem.
 A003:
-  titulo: Novos Desafios
+  titulo: Novos Desafios (x2)
   texto:  Escolha um Designer de outra equipe e troque por um seu.
 A004:
-  titulo: Sprint
+  titulo: Sprint (x2)
   texto:  Pode juntar, voluntariamente, bits de todos os jogadores para
           formar um Byte. Ele é definido pelo melhor Designer na mesa.
 A005:
-  titulo: Recrutamento
+  titulo: Recrutamento (x2)
   texto:  Pague $2 e pegue qualquer carta de equipe no monte, depois reembaralhe.
 A006:
-  titulo: Crowdfunding
+  titulo: Crowdfunding (x2)
   texto:  Pega $1 de cada equipe.
