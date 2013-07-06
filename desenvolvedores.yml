@@ -13,8 +13,8 @@ H002:
 H003:
   titulo: John Resig
   tipo:   Desenvolvedor Javascript
-  texto:  Enquanto John Resig estiver em jogo, Desenvolvedores Iniciantes de
-          todas as equipes podem operar Softwares Javascript com efeito máximo.
+  texto:  Enquanto John Resig estiver em jogo, 1 Desenvolvedor de cada equipe
+          passa a poder operar Softwares Javascript com efeito máximo.
   bits:   2
   renda:  2
 H004:
@@ -52,7 +52,7 @@ H008:
 H009:
   titulo: Ryan Parman
   tipo:   Desenvolvedor PHP
-  texto:  Quando Ryan McCue entra em uma equipe, devolva um Software deprecado
+  texto:  Quando Ryan Parman entra em uma equipe, devolva um Software deprecado
           ao jogo.
   bits:   2
   renda:  3
@@ -65,13 +65,13 @@ H010:
 H011:
   titulo: Angela Byron
   tipo:   Desenvolvedor PHP
-  texto:  Todos os Desenvolvedores iniciantes passam a produzir 1 bit.
+  texto:  Todos os Desenvolvedores Iniciantes passam a produzir $1 a mais.
   bits:   3
   renda:  3
 H012:
   titulo: Fabien Potencier
   tipo:   Desenvolvedor PHP
-  texto:  Toda vez que um Software PHP for deprecado, Fabien Potencier passa a
+  texto:  Toda vez que um Software PHP for descartado, Fabien Potencier passa a
           produzir um bit a mais, permanentemente.
   bits:   3
   renda:  3
@@ -90,13 +90,13 @@ H014:
 H015:
   titulo: Lynn Root
   tipo:   Desenvolvedor Python
-  texto:  Todos os Desenvolvedores Iniciantes produzem 1 bit a mais.
+  texto:  Todos os Desenvolvedores Iniciantes passam a produzir 1 bit a mais.
   bits:   2
   renda:  4
 H016:
   titulo: Mark Pilgrim
   tipo:   Desenvolvedor Python
-  texto:  Quando Mark Pilgrim entra em jogo, pegue um Desenvolvedor Iniciante
+  texto:  Quando Mark Pilgrim entra em jogo, pegue um Desenvolvedor Python
           de outra equipe e coloque na sua.
   bits:   2
   renda:  4
