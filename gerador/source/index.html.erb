@@ -1,6 +1,20 @@
 ---
-title: HTML5 Boilerplate Middleman
+title: DataHack
 ---
+<%= md_render '../regras.md' %>
 
-<!-- Add your site or application content here -->
-<p>Hello world! This is HTML5 Boilerplate.</p>
+<h2>Desenvolvedores</h2>
+<%= yaml_render '../desenvolvedores.yml', 'desenvolvedor' %>
+
+<h2>Designers</h2>
+<%= yaml_render '../designers.yml', 'designer' %>
+
+<h2>Equipe</h2>
+<%= yaml_render '../equipe.yml', 'equipe' %>
+
+<h2>Hardware</h2>
+<%= yaml_render '../hardware.yml', 'hardware' %>
+
+<h2>Software</h2>
+<%= yaml_render '../software.yml', 'software' %>
+
