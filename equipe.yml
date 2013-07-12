@@ -5,12 +5,12 @@ O002:
   titulo: Gerente de Comunidade (x4)
   texto:  Rende 1 bit a mais para cada Desenvolvedor da mesma linguagem.
 O003:
-  titulo: Gerente de Projetos: Agile
+  titulo: "Gerente de Projetos: Agile"
   texto:  Desenvolvedores produzem $1 a mais por rodada.
           Se nenhum desenvolvedor da equipe produzir bits,
           retire o Gerente da equipe.
 O004:
-  titulo: Gerente de Projetos: Waterfall
+  titulo: "Gerente de Projetos: Waterfall"
   texto:  Desenvolvedores produzem 1 bit a mais por rodada.
           Se nenhum desenvolvedor da equipe produzir dinheiro,
           retire o Gerente da equipe.
@@ -22,9 +22,9 @@ O006:
   titulo: Relações Públicas (x2)
   texto:  Rende 1 bit toda vez que um software entra na mesa.
 O007:
-  titulo: Gerente de Projetos: Scrummaster
-  texto: Rende 2 bit por rodada ou dobra o rendimento em bits
-  de outro Desenvolvedor.
+  titulo: "Gerente de Projetos: Scrummaster"
+  texto:  Rende 2 bit por rodada ou dobra o rendimento em bits
+          de outro Desenvolvedor.
 O008:
-  titulo: Gerente de Projetos: UserStories
+  titulo: "Gerente de Projetos: UserStories"
   texto:  Cada Designer define 1 bit a mais.
