@@ -1,154 +1,120 @@
 H001:
   titulo: Ryan Dahl
   tipo:   Desenvolvedor Javascript
-  texto:  Produz 1 bit a mais para cada Software Javascript na mesa.
-  bits:   1
-  renda:  4
+  bits:   2
+  renda:  3
 H002:
   titulo: Mike Bostock
   tipo:   Desenvolvedor Javascript
-  texto:  Mike Bostock conta como um Designer na hora de definir o Byte.
-  bits:   1
-  renda:  3
+  bits:   2
+  renda:  2
 H003:
   titulo: John Resig
   tipo:   Desenvolvedor Javascript
-  texto:  Enquanto John Resig estiver em jogo, 1 Desenvolvedor de cada equipe
-          passa a poder operar Softwares Javascript com efeito máximo.
-  bits:   2
-  renda:  2
+  bits:   4
+  renda:  1
 H004:
   titulo: Isaac Schlueter
   tipo:   Desenvolvedor Javascript
-  texto:  Quando Isaac entra em jogo, procure no baralho por um Software de
-          Javascript e ponha-o na sua mão.
   bits:   2
-  renda:  3
+  renda:  2
 H005:
   titulo: TJ Holowaychuck
   tipo:   Desenvolvedor Javascript
-  texto:  Quando TJ Holowaychuck entra em jogo, coloque um Software Javascript em
-          jogo sem pagar o custo de invocação em bits.
-  bits:   3
-  renda:  4
+  bits:   4
+  renda:  2
 H006:
   titulo: Jeremy Ashkenas
   tipo:   Desenvolvedor Javascript
-  texto:  O custo dos Softwares Javascript caem 1 bit para todas as equipes.
   bits:   3
-  renda:  4
+  renda:  3
 H007:
   titulo: Matt Mullenweg
   tipo:   Desenvolvedor PHP
-  texto:  Produz 1 Bit a mais pra cada designer na equipe.
-  bits:   1
+  bits:   2
   renda:  4
 H008:
   titulo: Dries Buytaert
   tipo:   Desenvolvedor PHP
-  texto:  Produz 1 Bit a mais pra cada desenvolvedor PHP na mesa.
-  bits:   1
-  renda:  4
+  bits:   3
+  renda:  3
 H009:
   titulo: Ryan Parman
   tipo:   Desenvolvedor PHP
-  texto:  Quando Ryan Parman entra em uma equipe, devolva um Software deprecado
-          ao jogo.
-  bits:   2
-  renda:  3
+  bits:   3
+  renda:  1
 H010:
   titulo: Michel Fortin
   tipo:   Desenvolvedor PHP
-  texto:  Gera 1 bit toda vez que um Software é deprecado.
   bits:   2
-  renda:  3
+  renda:  2
 H011:
   titulo: Angela Byron
   tipo:   Desenvolvedor PHP
-  texto:  Todos os Desenvolvedores Iniciantes passam a produzir $1 a mais.
   bits:   3
-  renda:  3
+  renda:  2
 H012:
   titulo: Fabien Potencier
   tipo:   Desenvolvedor PHP
-  texto:  Toda vez que um Software PHP for descartado, Fabien Potencier passa a
-          produzir um bit a mais, permanentemente.
-  bits:   3
-  renda:  3
+  bits:   4
+  renda:  1
 H013:
   titulo: Guido Von Rossum
   tipo:   Desenvolvedor Python
-  texto:  Todos os Desenvolvedores Python produzem 1 bit a mais.
-  bits:   1
-  renda:  4
+  bits:   3
+  renda:  3
 H014:
   titulo: Ricardo Garcia
   tipo:   Desenvolvedor Python
-  texto:  Todos os Designers definem 1 bit a mais no byte.
-  bits:   1
-  renda:  4
+  bits:   2
+  renda:  2
 H015:
   titulo: Lynn Root
   tipo:   Desenvolvedor Python
-  texto:  Todos os Desenvolvedores Iniciantes passam a produzir 1 bit a mais.
-  bits:   2
-  renda:  4
+  bits:   3
+  renda:  2
 H016:
   titulo: Mark Pilgrim
   tipo:   Desenvolvedor Python
-  texto:  Quando Mark Pilgrim entra em jogo, pegue um Desenvolvedor Python
-          de outra equipe e coloque na sua.
   bits:   2
   renda:  4
 H017:
   titulo: Aaron Swartz
   tipo:   Desenvolvedor Python
-  texto:  Aaron Swartz não tem custo de manutenção. Depois de 4 rodadas, Aaron
-          sai do jogo, deixando 24 bits para sua equipe e 6 para todas as
-          outras.
-  bits:   3
+  bits:   5
   renda:  0
 H018:
   titulo: Pablo Hoffman
   tipo:   Desenvolvedor Python
-  texto:  O custo de Hardware cai por $1.
   bits:   3
-  renda:  4
+  renda:  1
 H019:
   titulo: Chris Eppstein
   tipo:   Desenvolvedor Ruby
-  texto:  Designers passam a definir 1 bit a mais.
   bits:   1
   renda:  3
 H020:
   titulo: Yukihiro Matsumoto
   tipo:   Desenvolvedor Ruby
-  texto:  Os Desenvolvedores Ruby passam a produzir 1 bit a mais.
-  bits:   1
-  renda:  3
+  bits:   2
+  renda:  2
 H021:
   titulo: David Heinemeier Hansson
   tipo:   Desenvolvedor Ruby
-  texto:  Enquanto DHH estiver em jogo, todo Software Ruby opera com seu
-          efeito ótimo.
   bits:   2
-  renda:  5
+  renda:  4
 H022:
   titulo: Why the Lucky Stiff
   tipo:   Desenvolvedor Ruby
-  texto:  Quando _why entra em jogo, pegue um Desenvolvedor de outra equipe.
-          Quando _why sai de jogo, tire esse Desenvolvedor de jogo.
-  bits:   2
-  renda:  1
+  bits:   3
+  renda:  2
 H023:
   titulo: Scott Chacon
   tipo:   Desenvolvedor Ruby
-  texto:  Scott Chacon pode manter dois Softwares Ruby.
   bits:   3
-  renda:  4
+  renda:  3
 H024:
   titulo: Nathan Weizenbaum
   tipo:   Desenvolvedor Ruby
-  texto:  Designers passam a produzir 1 bit como Desenvolvedores.
   bits:   3
-  renda:  4
+  renda:  2
