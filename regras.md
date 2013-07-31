@@ -61,6 +61,14 @@ tiverem um Software para operar, indiferente da Linguagem. Mas se a Linguagem do
 Desenvolvedor e do Software forem a mesma, dispara-se o Efeito Máximo do
 Software, como descrito na carta.
 
+#### Sinergia
+
+Durante a fase de Implementação, se 3 ou mais Desenvolvedores da mesma
+linguagem estiverem na mesa, todos os Desenvolvedores dessa linguagem geram
+1 bit a mais. Se 4 ou mais Desenvolvedores da mesma linguagem estiverem na
+mesa, todos os Desenvolvedores podem operar o efeito máximo dos Softwares dessa
+linguagem.
+
 ### Infraestrutura 2
 
 O jogador pode descer mais cartas, como na primeira fase de Infraestrutura.
