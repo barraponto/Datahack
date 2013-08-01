@@ -13,11 +13,6 @@ H003:
   tipo:   Javascript
   bits:   4
   renda:  1
-H004:
-  titulo: Isaac Schlueter
-  tipo:   Javascript
-  bits:   2
-  renda:  2
 H005:
   titulo: TJ Holowaychuck
   tipo:   Javascript
@@ -38,11 +33,6 @@ H008:
   tipo:   PHP
   bits:   3
   renda:  3
-H009:
-  titulo: Ryan Parman
-  tipo:   PHP
-  bits:   3
-  renda:  1
 H010:
   titulo: Michel Fortin
   tipo:   PHP
@@ -52,7 +42,7 @@ H011:
   titulo: Angela Byron
   tipo:   PHP
   bits:   3
-  renda:  2
+  renda:  1
 H012:
   titulo: Fabien Potencier
   tipo:   PHP
@@ -63,11 +53,6 @@ H013:
   tipo:   Python
   bits:   3
   renda:  3
-H014:
-  titulo: Ricardo Garcia
-  tipo:   Python
-  bits:   2
-  renda:  2
 H015:
   titulo: Lynn Root
   tipo:   Python
@@ -88,11 +73,6 @@ H018:
   tipo:   Python
   bits:   3
   renda:  1
-H019:
-  titulo: Chris Eppstein
-  tipo:   Ruby
-  bits:   1
-  renda:  3
 H020:
   titulo: Yukihiro Matsumoto
   tipo:   Ruby
@@ -117,7 +97,7 @@ H024:
   titulo: Nathan Weizenbaum
   tipo:   Ruby
   bits:   3
-  renda:  2
+  renda:  1
 H025:
   titulo: Jean Carlo Emer
   tipo:   Desenvolvedor Javascript

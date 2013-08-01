@@ -1,72 +1,36 @@
 D001:
   titulo: Mark Boulton
-  texto:  
   bits:   4
 D002:
   titulo: Eric Meyer
-  texto:  
   bits:   2
-D003:
-  titulo: Chris Michel
-  texto:  
-  bits:   3
 D004:
   titulo: Mark Otto
-  texto:  
   bits:   4
-D005:
-  titulo: Brad Frost
-  texto:  
-  bits:   2
 D006:
   titulo: Luke Wroblewski
-  texto:  
   bits:   2
 D007:
   titulo: Rachel Nabors
-  texto:  
-  bits:   1
+  bits:   2
 D008:
   titulo: Jason Santa Maria
-  texto:  
-  bits:   2
+  bits:   3
 D009:
   titulo: Ethan Marcotte
-  texto:  
   bits:   3
 D010:
   titulo: Mason Wendell
-  texto:  
-  bits:   1
-D011:
-  titulo: Divya Manian
-  texto:  
-  bits:   3
-D012:
-  titulo: Nicolas Gallagher
-  texto:  
   bits:   1
 D013:
   titulo: Jen Mylo
-  texto:  
-  bits:   2
-D014:
-  titulo: Nica Lorber
-  texto:  
-  bits:   1
+  bits:   3
 D015:
   titulo: Jina Bolton
-  texto:  
-  bits:   3
-D016:
-  titulo: Scott Kellum
-  texto:  
-  bits:   1
+  bits:   2
 D017:
   titulo: Zeno Rocha
-  texto:  
   bits:   1
 D018:
   titulo: Bernard de Luna
-  texto:  
   bits:   1

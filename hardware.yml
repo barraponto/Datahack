@@ -5,15 +5,15 @@ W001:
           Hacker.
   custo:  5
 H002:
-  titulo: Smartphone / Tablet / SmartTV
+  titulo: Smartphone / Tablet
   texto:  Um Designer passa a render 1 bit a mais.
   custo:  2
 H003:
-  titulo: Tomato RAF / Lata de Pringles
+  titulo: Tomato RAF
   texto:  O custo de Software cai em 1 bit se o Evento atual não for um Bug.
   custo:  1
 H004:
-  titulo: Churrasqueira / Geladeira / Minibar
+  titulo: Churrasqueira / Geladeira
   texto:  O custo dos seus desenvolvedores sobe em $1. Todos passam a render 2
           bits a mais.
   custo:  2
@@ -27,7 +27,7 @@ H006:
   texto:  Evita o efeito do Bug 4 vezes, depois sai de jogo.
   custo:  3
 H007:
-  titulo: Fibra ótica (x3)
+  titulo: Fibra ótica
   texto:  Pague $1 e compre outra carta.
   custo:  1
 H008:
@@ -39,6 +39,6 @@ H009:
   texto:  Seus desenvolvedores não podem sair da equipe (exceto por salário).
   custo:  4
 H010:
-  titulo: Livro do Animal (x4)
+  titulo: Livro do Animal (x2)
   texto:  Pague 1 bit para ativar o efeito de qualquer software.
   custo:  2
