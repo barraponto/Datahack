@@ -16,7 +16,8 @@ S003:
 S004:
   titulo:    Bootstrap
   linguagem: Javascript
-  texto:     Um Desenvolvedor pode operar como Designer de 1 bit.
+  texto:     O Desenvolvedor pode operar como Designer de N bits, onde N é
+             a produção básica de bits do Desenvolvedor.
   custo:     3
 S005:
   titulo:    D3
@@ -66,7 +67,7 @@ S014:
 S015:
   titulo:    Twisted
   linguagem: Python
-  texto:     Um desenvolvedor pode gerar em bits o que geraria em dinheiro.
+  texto:     A produção básica de bits do desenvolvedor passa a ser 4.
   custo:     2
 S016:
   titulo:    Scrapy
@@ -82,7 +83,7 @@ S020:
   titulo:    Compass
   linguagem: Ruby
   texto:     Gera 1 bit a mais por designer na equipe.
-  custo:     2
+  custo:     3
 S021:
   titulo:    Cucumber
   linguagem: Ruby
