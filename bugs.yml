@@ -1,27 +1,11 @@
 E001:
   titulo: Falha de segurança
-  texto:  Pague novamente o custo do seu Software mais caro.
-E002:
-  titulo: Firewall Paranóico
-  texto:  O custo dos Softwares aumenta em $1.
+  texto:  Pague novamente o custo do seu Software mais caro ou perca-o.
 E003:
   titulo: Incêndio
-  texto:  Descarte 1 Hardware.
-E004:
-  titulo: Magia Negra
-  texto:  Para cada Software da sua equipe, pague 1 bit ou descarte-o.
-E005:
-  titulo: Unicórnios
-  texto:  Nenhuma equipe pode produzir Byte.
-E006:
-  titulo: Piadinha Homofóbica
-  texto:  Pague 1 bit por membro da equipe ou perca 1 membro aleatório
-          da equipe.
-E007:
-  titulo: Falta de inspiração
-  texto:  Um Desenvolvedor por equipe deixa de produzir dinheiro e bits.
+  texto:  Descarte todos os Hardwares.
 E008:
-  titulo: Queda da conexão
+  titulo: Firewall Paranóico
   texto:  Nenhum Software pode ser introduzido ou copiado.
 E009:
   titulo: Má Documentação
@@ -31,19 +15,11 @@ E010:
   texto:  Só um software de cada linguagem pode ser usado pela equipe.
 E011:
   titulo: Problemas com codificação de caracteres
-  texto:  Todos os desenvolvedors produzem 1 bit a menos.
-E012:
-  titulo: Programação Orientada à Gambiarra
-  texto:  Softwares usados nessa rodada são descartados.
-E013:
-  titulo: Vampiros do Suporte
-  texto:  Perde 1 bit para cada Software da sua Equipe.
-E014:
-  titulo: Rotina
-  texto:  Os desenvolvedores fazem a mesma coisa que fizeram
-          na rodada anterior. 
+  texto:  Todos os desenvolvedors produzem 1 bit ou $1 a menos.
 E015:
-  titulo: Falhas no cache
-  texto:  Ao completar um Byte, jogue apenas X dados para definir os valores
-          de cada bit -- os outros repetem o Byte anterior. X é o número de
-          Desenvolvedores na equipe.
+  titulo: Prazo Limite
+  texto:  Todos os Desenvolvedores são forçados a produzir bits.
+E016:
+  titulo: Corte de Verbas
+  texto:  Todos os jogadores despedem um membro da sua equipe.
+          Nenhuma carta pode ser recuperada do descarte nesta rodada.

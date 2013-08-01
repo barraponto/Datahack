@@ -43,6 +43,9 @@ Expansão.
 O jogador compra duas cartas do monte. Opcionalmente, pode investir $2 para
 comprar outra carta, quantas vezes quiser.
 
+O jogador pode investir $2 para recuperar uma carta de equipe do monte de
+descarte, apenas uma vez por rodada.
+
 ### Infraestrutura
 
 O jogador pode descer quantas cartas quiser, desde que possa pagar seu custo
