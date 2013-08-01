@@ -1,8 +1,8 @@
 O001:
-  titulo: Administrador de Sistemas (x2)
+  titulo: Administrador de Sistemas
   texto:  Rende 1 bit a mais pra cada Software.
 O002:
-  titulo: Gerente de Comunidade (x4)
+  titulo: Gerente de Comunidade (x2)
   texto:  Rende 1 bit a mais para cada Desenvolvedor da mesma linguagem.
 O003:
   titulo: "Gerente de Projetos: Agile"
@@ -19,7 +19,7 @@ O005:
   texto:  Dois desenvolvedores podem usar efeitos máximos de softwares
           de outras linguagens.
 O006:
-  titulo: Relações Públicas (x2)
+  titulo: Relações Públicas
   texto:  Rende 1 bit toda vez que um software entra na mesa.
 O007:
   titulo: "Gerente de Projetos: Scrummaster"
