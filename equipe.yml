@@ -4,6 +4,7 @@ O001:
 O002:
   titulo: Gerente de Comunidade
   texto:  Rende 1 bit a mais para cada Desenvolvedor da mesma linguagem.
+  copias: 2
 O003:
   titulo: "Gerente de Projetos: Agile"
   texto:  Desenvolvedores produzem $1 a mais por rodada.
@@ -21,6 +22,10 @@ O005:
 O006:
   titulo: Relações Públicas
   texto:  Rende 1 bit toda vez que um software entra na mesa.
+O007:
+  titulo: "Gerente de Projetos: Scrummaster"
+  texto:  Rende 2 bit por rodada ou dobra o rendimento em bits
+          de outro Desenvolvedor.
 O008:
   titulo: "Gerente de Projetos: UserStories"
   texto:  Cada Designer define 1 bit a mais.
