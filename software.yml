@@ -1,139 +1,139 @@
 S001:
   titulo:    jQuery
   linguagem: Javascript
-  efeito:    Rende 1 bit a mais.
+  texto:     Rende 1 bit a mais.
   custo:     1
 S002:
   titulo:    Backbone
   linguagem: Javascript
-  efeito:    Pode pagar 1 bit para evitar um bug.
+  texto:     Pode pagar 1 bit para evitar um bug.
   custo:     2
 S003:
   titulo:    Express
   linguagem: Javascript
-  efeito:    Pode pagar $1 a menos no hardware.
+  texto:     Pode pagar $1 a menos no hardware.
   custo:     2
 S004:
   titulo:    Bootstrap
   linguagem: Javascript
-  efeito:    Um Desenvolvedor pode operar como Designer de 1 bit.
+  texto:     Um Desenvolvedor pode operar como Designer de 1 bit.
   custo:     3
 S005:
   titulo:    D3
   linguagem: Javascript
-  efeito:    Rende 2 bits a mais.
+  texto:     Rende 2 bits a mais.
   custo:     3
 S006:
   titulo:    OpenLayers
   linguagem: Javascript
-  efeito:    Pode comprar uma carta.
+  texto:     Pode comprar uma carta.
   custo:     3
 S007:
   titulo:    Wordpress
   linguagem: PHP
-  efeito:    Um Designer define 1 bit a mais.
+  texto:     Um Designer define 1 bit a mais.
   custo:     1
   badge: PSOCIAL
 S008:
   titulo:    Drupal
   linguagem: PHP
-  efeito:    Um Designer pode operar como desenvolvedor.
+  texto:     Um Designer pode operar como desenvolvedor.
   custo:     2
 S009:
   titulo:    Mediawiki
   linguagem: PHP
-  efeito:    Rende 2 bits a mais.
+  texto:     Rende 2 bits a mais.
   custo:     2
 S010:
   titulo:    Simplepie
   linguagem: PHP
-  efeito:    Rende 3 bits se o Evento atual não for um Bug.
+  texto:     Rende 3 bits se o Evento atual não for um Bug.
   custo:     3
 S011:
   titulo:    Symfony
   linguagem: PHP
-  efeito:    Rende 1 bit a mais para cada projeto PHP da sua equipe.
+  texto:     Rende 1 bit a mais para cada projeto PHP da sua equipe.
   custo:     3
 S012:
   titulo:    Laravel
   linguagem: PHP
-  efeito:    Desenvolvedores produzindo dinheiro rendem 1 bit mesmo assim.
+  texto:     Desenvolvedores produzindo dinheiro rendem 1 bit mesmo assim.
   custo:     3
 S013:
   titulo:    Flask
   linguagem: Python
-  efeito:    Rende 1 bit a mais.
+  texto:     Rende 1 bit a mais.
   custo:     1
 S014:
   titulo:    Django
   linguagem: Python
-  efeito:    Pode trocar $1 por 1 bit.
+  texto:     Pode trocar $1 por 1 bit.
   custo:     2
 S015:
   titulo:    Twisted
   linguagem: Python
-  efeito:    Um desenvolvedor pode gerar em bits o que geraria em dinheiro.
+  texto:     Um desenvolvedor pode gerar em bits o que geraria em dinheiro.
   custo:     2
 S016:
   titulo:    Scrapy
   linguagem: Python
-  efeito:    Rende 3 bits se o Evento atual não for um Bug.
+  texto:     Rende 3 bits se o Evento atual não for um Bug.
   custo:     3
 S017:
   titulo:    NLTK
   linguagem: Python
-  efeito:    Gera 1 bit sempre que algum byte é produzido.
+  texto:     Gera 1 bit sempre que algum byte é produzido.
   custo:     3
 S018:
   titulo:    Plone
   linguagem: Python
-  efeito:    Gera 1 bit a mais para cada Hardware da sua equipe.
+  texto:     Gera 1 bit a mais para cada Hardware da sua equipe.
   custo:     3
 S019:
   titulo:    Jekyll
   linguagem: Ruby
-  efeito:    Rende 1 bit a mais.
+  texto:     Rende 1 bit a mais.
   custo:     1
 S020:
   titulo:    Compass
   linguagem: Ruby
-  efeito:    Gera 1 bit a mais por designer na equipe.
+  texto:     Gera 1 bit a mais por designer na equipe.
   custo:     2
 S021:
   titulo:    Cucumber
   linguagem: Ruby
-  efeito:    Rende $2 a mais se o Evento atual for um Bug. 
+  texto:     Rende $2 a mais se o Evento atual for um Bug. 
   custo:     2
 S022:
   titulo:    Nokogiri
   linguagem: Ruby
-  efeito:    Rende 2 bits se o Evento atual não for um Bug.
+  texto:     Rende 2 bits se o Evento atual não for um Bug.
   custo:     2
 S023:
   titulo:    Hackety Hack
   linguagem: Ruby
-  efeito:    O Desenvolvedor Iniciante produz 2 bits a mais.
+  texto:     O Desenvolvedor Iniciante produz 2 bits a mais.
   custo:     3
 S024:
   titulo:    Rails
   linguagem: Ruby
-  efeito:    Rende 1 bit e $1 a mais toda rodada.
+  texto:     Rende 1 bit e $1 a mais toda rodada.
   custo:     3
 S025:
-  titulo: Noosfero
+  titulo:    Noosfero
   linguagem: Ruby
-  efeito:    <não tenho claro o efeito. O noosfero é um sistema para rede social e publicação de conteúdo, criado por Brasileiros, com comunidade bastante ativa na área da economia solidária. Como ele oferece facilidade de customização para não desenvolvedores, acho que o efeito poderia ser: "Um bit ou dinheiro a mais para cada desenvolvedor ou designer brasileiro na equipe e dois pontos de vitória se o evento for a Feira de Troca". Esse software pode também aumentar o poder dos desenvolvedores e designers para produzir bits se o projeto individual ou coletivo for o Portal da Participação Social 
+  efeito:    '*Não tenho claro o efeito. O noosfero é um sistema para rede social e publicação de conteúdo, criado por Brasileiros, com comunidade bastante ativa na área da economia solidária. Como ele oferece facilidade de customização para não desenvolvedores, acho que o efeito poderia ser: "Um bit ou dinheiro a mais para cada desenvolvedor ou designer brasileiro na equipe e dois pontos de vitória se o evento for a Feira de Troca".* Esse software pode também aumentar o poder dos desenvolvedores e designers para produzir bits se o projeto individual ou coletivo for o Portal da Participação Social'
   custo:     2
-  badge: PSOCIAL
-S026: 
-  titulo: Ckan
+  badge:     PSOCIAL
+S026:
+  titulo:    Ckan
   linguagem: Python
-  efeito:    <não tenho claro ainda qual pode ser o efeito dele. O ckan é um software para gerenciar catálogos de dados, utilizados normalmente por governos para publicar dados e metadados abertos. um efeito possível seria gerar mais bits quando tiver um "Hacker de Governo" na equipe ou quando a rodada for um evento de governo como "Consegi", "Encontro Nacional de Dados Abertos" ou "Seminário Nacional de Participação Social">. Esse software pode também aumentar o poder dos desenvolvedores e designers para produzir bits se o projeto individual ou coletivo for o portal dados.gov.br
-  custo:    3
-  badge: OPENDATA
-S027
-  titulo: Elgg
+  efeito:    '*não tenho claro ainda qual pode ser o efeito dele. O ckan é um software para gerenciar catálogos de dados, utilizados normalmente por governos para publicar dados e metadados abertos. um efeito possível seria gerar mais bits quando tiver um "Hacker de Governo" na equipe ou quando a rodada for um evento de governo como "Consegi", "Encontro Nacional de Dados Abertos" ou "Seminário Nacional de Participação Social"*. Esse software pode também aumentar o poder dos desenvolvedores e designers para produzir bits se o projeto individual ou coletivo for o portal dados.gov.br'
+  custo:     3
+  badge:     OPENDATA
+S027:
+  titulo:    Elgg
   linguagem: PHP
-  efeito:    <não tenho claro ainda. O Elgg é um software de rede social livre com comunidade bastante ativa internacionalmente. Está sendo utilizado no participatório da juventude. Esse software pode também aumentar o poder dos desenvolvedores e designers para produzir bits se o projeto individual ou coletivo for o "Participatório da Juventude"
-  custo: 1
-  badge: PSOCIAL
+  efeito:    '*não tenho claro ainda. O Elgg é um software de rede social livre com comunidade bastante ativa internacionalmente. Está sendo utilizado no participatório da juventude.* Esse software pode também aumentar o poder dos desenvolvedores e designers para produzir bits se o projeto individual ou coletivo for o "Participatório da Juventude"'
+  custo:     1
+  badge:     PSOCIAL

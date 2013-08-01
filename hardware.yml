@@ -1,7 +1,7 @@
 W001:
   titulo: Ônibus Hacker
   texto:  Quando o Ônibus Hacker entra em jogo, pegue um Desenvolvedor de
-          outra equipe. Você pode pegar $1 de cada jogador para pagar o Ônibus 
+          outra equipe. Você pode pegar $1 de cada jogador para pagar o Ônibus
           Hacker.
   custo:  5
 H002:
@@ -36,7 +36,7 @@ H008:
   custo:  1
 H009:
   titulo: Poltrona Aeron
-  texto:  Seus desenvolvedores não podem sair da equipe (exceto por salário). 
+  texto:  Seus desenvolvedores não podem sair da equipe (exceto por salário).
   custo:  4
 H010:
   titulo: Livro do Animal (x4)

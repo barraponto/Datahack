@@ -1,121 +1,121 @@
 H001:
   titulo: Ryan Dahl
-  tipo:   Desenvolvedor Javascript
+  tipo:   Javascript
   bits:   2
   renda:  3
 H002:
   titulo: Mike Bostock
-  tipo:   Desenvolvedor Javascript
+  tipo:   Javascript
   bits:   2
   renda:  2
 H003:
   titulo: John Resig
-  tipo:   Desenvolvedor Javascript
+  tipo:   Javascript
   bits:   4
   renda:  1
 H004:
   titulo: Isaac Schlueter
-  tipo:   Desenvolvedor Javascript
+  tipo:   Javascript
   bits:   2
   renda:  2
 H005:
   titulo: TJ Holowaychuck
-  tipo:   Desenvolvedor Javascript
+  tipo:   Javascript
   bits:   4
   renda:  2
 H006:
   titulo: Jeremy Ashkenas
-  tipo:   Desenvolvedor Javascript
+  tipo:   Javascript
   bits:   3
   renda:  3
 H007:
   titulo: Matt Mullenweg
-  tipo:   Desenvolvedor PHP
+  tipo:   PHP
   bits:   2
   renda:  4
 H008:
   titulo: Dries Buytaert
-  tipo:   Desenvolvedor PHP
+  tipo:   PHP
   bits:   3
   renda:  3
 H009:
   titulo: Ryan Parman
-  tipo:   Desenvolvedor PHP
+  tipo:   PHP
   bits:   3
   renda:  1
 H010:
   titulo: Michel Fortin
-  tipo:   Desenvolvedor PHP
+  tipo:   PHP
   bits:   2
   renda:  2
 H011:
   titulo: Angela Byron
-  tipo:   Desenvolvedor PHP
+  tipo:   PHP
   bits:   3
   renda:  2
 H012:
   titulo: Fabien Potencier
-  tipo:   Desenvolvedor PHP
+  tipo:   PHP
   bits:   4
   renda:  1
 H013:
   titulo: Guido Von Rossum
-  tipo:   Desenvolvedor Python
+  tipo:   Python
   bits:   3
   renda:  3
 H014:
   titulo: Ricardo Garcia
-  tipo:   Desenvolvedor Python
+  tipo:   Python
   bits:   2
   renda:  2
 H015:
   titulo: Lynn Root
-  tipo:   Desenvolvedor Python
+  tipo:   Python
   bits:   3
   renda:  2
 H016:
   titulo: Mark Pilgrim
-  tipo:   Desenvolvedor Python
+  tipo:   Python
   bits:   2
   renda:  4
 H017:
   titulo: Aaron Swartz
-  tipo:   Desenvolvedor Python
+  tipo:   Python
   bits:   5
   renda:  0
 H018:
   titulo: Pablo Hoffman
-  tipo:   Desenvolvedor Python
+  tipo:   Python
   bits:   3
   renda:  1
 H019:
   titulo: Chris Eppstein
-  tipo:   Desenvolvedor Ruby
+  tipo:   Ruby
   bits:   1
   renda:  3
 H020:
   titulo: Yukihiro Matsumoto
-  tipo:   Desenvolvedor Ruby
+  tipo:   Ruby
   bits:   2
   renda:  2
 H021:
   titulo: David Heinemeier Hansson
-  tipo:   Desenvolvedor Ruby
+  tipo:   Ruby
   bits:   2
   renda:  4
 H022:
   titulo: Why the Lucky Stiff
-  tipo:   Desenvolvedor Ruby
+  tipo:   Ruby
   bits:   3
   renda:  2
 H023:
   titulo: Scott Chacon
-  tipo:   Desenvolvedor Ruby
+  tipo:   Ruby
   bits:   3
   renda:  3
 H024:
   titulo: Nathan Weizenbaum
-  tipo:   Desenvolvedor Ruby
+  tipo:   Ruby
   bits:   3
   renda:  2
 H025:
