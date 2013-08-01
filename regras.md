@@ -63,11 +63,17 @@ Software, como descrito na carta.
 
 #### Sinergia
 
-Durante a fase de Implementação, se 3 ou mais Desenvolvedores da mesma
-linguagem estiverem na mesa, todos os Desenvolvedores dessa linguagem geram
-1 bit a mais. Se 4 ou mais Desenvolvedores da mesma linguagem estiverem na
-mesa, todos os Desenvolvedores podem operar o efeito máximo dos Softwares dessa
-linguagem.
+Durante a fase de Infraestrutura, ao inserir um Desenvolvedor à mesa, insira um ponto de sinergia na linguagem correspondente a este desenvolvedor. Conforme o número de pontos de sinergia, a linguagem específica é afetada conforme as indicações abaixo:
+
+* 2+ pontos: Todos os desenvolvedores desta linguagem produzem um bit a mais na fase de Implementação.
+* 4+ pontos: Qualquer desenvolvedor opera software desta linguagem com efeito máximo
+* 6 pontos:
+  * PHP: Softwares de outras linguagens custam 2 bits a mais para serem inseridos no jogo.
+  * Javascript: Desenvolvedores Javascript operam qualquer software com efeito máximo.
+  * Ruby: Softwares Ruby tem custo zero para inserção ou cópia.
+  * Python: Toda vez que um byte for produzido no jogo, todos os desenvolvedores Python produzem 1 bit.
+
+
 
 ### Infraestrutura 2
 
