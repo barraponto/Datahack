@@ -2,7 +2,7 @@ O001:
   titulo: Administrador de Sistemas
   texto:  Rende 1 bit a mais pra cada Software.
 O002:
-  titulo: Gerente de Comunidade (x2)
+  titulo: Gerente de Comunidade
   texto:  Rende 1 bit a mais para cada Desenvolvedor da mesma linguagem.
 O003:
   titulo: "Gerente de Projetos: Agile"
@@ -15,16 +15,24 @@ O004:
           Se nenhum desenvolvedor da equipe produzir dinheiro,
           retire o Gerente da equipe.
 O005:
-  titulo: Documentador (x2)
+  titulo: Documentador
   texto:  Dois desenvolvedores podem usar efeitos máximos de softwares
           de outras linguagens.
 O006:
   titulo: Relações Públicas
   texto:  Rende 1 bit toda vez que um software entra na mesa.
-O007:
-  titulo: "Gerente de Projetos: Scrummaster"
-  texto:  Rende 2 bit por rodada ou dobra o rendimento em bits
-          de outro Desenvolvedor.
 O008:
   titulo: "Gerente de Projetos: UserStories"
   texto:  Cada Designer define 1 bit a mais.
+0009:
+  titulo: Participação Social
+  texto:  Reproduz o poder básico de um desenvolvedor ou designer de
+          outra equipe.
+0010:
+  titulo: Hacker do Governo
+  texto:  Aumenta dois pontos nos marcadores de sinergia de uma linguagem
+          à escolha.
+0011:
+  titulo: Gestor Governamental
+  texto:  Olha os dois próximos eventos do monte: coloca um no topo do monte
+          e outro no fundo.
