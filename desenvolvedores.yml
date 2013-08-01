@@ -118,3 +118,23 @@ H024:
   tipo:   Desenvolvedor Ruby
   bits:   3
   renda:  2
+H025:
+  titulo: Jean Carlo Emer
+  tipo:   Desenvolvedor Javascript
+  bits:   2
+  renda:  2
+H026:
+  titulo: Alexandre Gaigalas
+  tipo:   Desenvolvedor PHP
+  bits:   3
+  renda:  2
+H027:
+  titulo: Luciano Ramalho
+  tipo:   Desenvolvedor Python
+  bits:   1
+  renda:  3
+H028:
+  titulo: José Valim
+  tipo:   Desenvolvedor Ruby
+  bits:   2
+  renda:  3
