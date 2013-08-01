@@ -33,6 +33,7 @@ S007:
   linguagem: PHP
   efeito:    Um Designer define 1 bit a mais.
   custo:     1
+  badge: PSOCIAL
 S008:
   titulo:    Drupal
   linguagem: PHP
@@ -118,3 +119,21 @@ S024:
   linguagem: Ruby
   efeito:    Rende 1 bit e $1 a mais toda rodada.
   custo:     3
+S025:
+  titulo: Noosfero
+  linguagem: Ruby
+  efeito:    <não tenho claro o efeito. O noosfero é um sistema para rede social e publicação de conteúdo, criado por Brasileiros, com comunidade bastante ativa na área da economia solidária. Como ele oferece facilidade de customização para não desenvolvedores, acho que o efeito poderia ser: "Um bit ou dinheiro a mais para cada desenvolvedor ou designer brasileiro na equipe e dois pontos de vitória se o evento for a Feira de Troca". Esse software pode também aumentar o poder dos desenvolvedores e designers para produzir bits se o projeto individual ou coletivo for o Portal da Participação Social 
+  custo:     2
+  badge: PSOCIAL
+S026: 
+  titulo: Ckan
+  linguagem: Python
+  efeito:    <não tenho claro ainda qual pode ser o efeito dele. O ckan é um software para gerenciar catálogos de dados, utilizados normalmente por governos para publicar dados e metadados abertos. um efeito possível seria gerar mais bits quando tiver um "Hacker de Governo" na equipe ou quando a rodada for um evento de governo como "Consegi", "Encontro Nacional de Dados Abertos" ou "Seminário Nacional de Participação Social">. Esse software pode também aumentar o poder dos desenvolvedores e designers para produzir bits se o projeto individual ou coletivo for o portal dados.gov.br
+  custo:    3
+  badge: OPENDATA
+S027
+  titulo: Elgg
+  linguagem: PHP
+  efeito:    <não tenho claro ainda. O Elgg é um software de rede social livre com comunidade bastante ativa internacionalmente. Está sendo utilizado no participatório da juventude. Esse software pode também aumentar o poder dos desenvolvedores e designers para produzir bits se o projeto individual ou coletivo for o "Participatório da Juventude"
+  custo: 1
+  badge: PSOCIAL
