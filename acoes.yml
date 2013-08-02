@@ -1,10 +1,12 @@
 A001:
-  titulo: Evangelista (x2)
+  titulo: Evangelista
   texto:  Pode pegar 1 Desenvolvedor de outra equipe, desde que sua equipe
           possua um Software da mesma linguagem.
+  copias: 2
 A002:
-  titulo: Portabilidade (x2)
+  titulo: Portabilidade
   texto:  Cria uma cópia de um Software em outra linguagem.
+  copias: 2
 A003:
   titulo: Novos Desafios
   texto:  Escolha um Designer de outra equipe e troque por um seu.
