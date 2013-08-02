@@ -3,13 +3,10 @@ A001:
   texto:  Pode pegar 1 Desenvolvedor de outra equipe, desde que sua equipe
           possua um Software da mesma linguagem.
   copias: 2
-A002:
-  titulo: Portabilidade
-  texto:  Cria uma cópia de um Software em outra linguagem.
-  copias: 2
 A003:
   titulo: Novos Desafios
   texto:  Escolha um Designer de outra equipe e troque por um seu.
+  copias: 2
 A004:
   titulo: Sprint
   texto:  Pode juntar, voluntariamente, bits de todos os jogadores para
@@ -17,6 +14,7 @@ A004:
 A005:
   titulo: Recrutamento
   texto:  Pague $2 e pegue qualquer carta de equipe no monte, depois reembaralhe.
+  copias: 2
 A006:
   titulo: Crowdfunding
   texto:  Pega $1 de cada equipe.
