@@ -1,76 +1,44 @@
 E001:
   titulo: Transparência HackDay
-  texto:  Libere Bytes começando com 0000, 0101, 1000 ou 1010
-  premio: 2k
+  texto:  Libere Bytes começando com 0001, 0101, 1000 ou 1010
 E002:
   titulo: Hackathon de Dados Educacionais
-  texto:  Libere 1 Byte começando com 0000
-  premio: 2k
+  texto:  Libere Bytes começando com 0110
 E003:
   titulo: Hackathon da Câmara Municipal de São Paulo
-  texto:  Libere 1 Byte começando com 0101
-  premio: 2k
+  texto:  Libere Bytes começando com 1001
 E004:
   titulo: International Space Apps Challenge
-  texto:  Libere 1 Byte começando com 1000
-  premio: 4k
+  texto:  Libere Bytes começando com 1100
 E005:
   titulo: Hackathon do Código Florestal
-  texto:  Libere 1 Byte começando com 1010
-  premio: 2k
+  texto:  Libere Bytes começando com 0011
 E006:
   titulo: HackDay Transporte Público
-  texto:  Totalize X Bytes começando com 0101
-  premio: Xk
+  texto:  Libere Bytess começando com 0101
 E007:
   titulo: rodAda Hacker
   texto:  Libere 1 Byte com uma programadora na equipe
-  premio: 1k
 E008:
   titulo: BrazilJS
   texto:  Libere 1 Byte com um Software Javascript na equipe.
           Softwares e Desenvolvedores Javascript custam 1 menos para
           entrar em jogo.
-  premio: 1k
 E009:
   titulo: Python Brasil
   texto:  Libere 1 Byte com um Software Python na equipe.
           Softwares e Desenvolvedores Python custam 1 menos para
           entrar em jogo.
-  premio: 1k
 E010:
   titulo: PHP Conference Brasil
   texto:  Libere 1 Byte com um Software PHP na equipe.
           Softwares e Desenvolvedores PHP custam 1 menos para
           entrar em jogo.
-  premio: 1k
 E011:
   titulo: RubyConf Brasil
   texto:  Libere 1 Byte com um Software Ruby na equipe.
           Softwares e Desenvolvedores Ruby custam 1 menos para
           entrar em jogo.
-  premio: 1k
-E012:
-  titulo: DrupalCamp
-  texto:  Libere 1 byte com Drupal na equipe.
-          O Desenvolvedor Iniciante pode operar PHP com efeito máximo.
-  premio: 2k
-E013:
-  titulo: RailsRubmle
-  texto:  Libere 1 Byte com Rails na equipe.
-          O Desenvolvedor Iniciante pode operar Ruby com efeito máximo.
-  premio: 2k
-E014:
-  titulo: Welcome to the Django
-  texto:  Libere 1 Byte com Django na equipe.
-          O Desenvolvedor Iniciante pode operar Python com efeito máximo.
-  premio: 2k
-E015:
-  titulo: Front in Rio
-  texto:  Libere 1 byte com jQery na equipe.
-          O Desenvolvedor Iniciante pode operar Javascript com efeito máximo.
-  premio: 2k
 E016:
-  titulo: Consegi
-  texto:  Libere 1 byte de prefixo 1111.
-  premio: 2k
+  titulo: Encontro Nacional de Dados Abertos
+  texto:  Libere 1 byte começando com 0000 ou 1111.
