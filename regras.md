@@ -1,7 +1,7 @@
 # Datahack
 
-Quantidade de jogadores: de 3 a 6 participantes
-Duração de jogo: 2h (1h na versão curta)
+Quantidade de jogadores: de 3 a 6 participantes  
+Duração de jogo: 2h
 
 ## Objetivos
 
@@ -12,12 +12,22 @@ por Desenvolvedores e definidos por Designers.
 
 ## Jogo
 
-Comece o jogo sorteando 8 bytes (4 na versão curta): seqüências de 8 dígitos 0
-ou 1. Use moedas ou dados (resultado par = 0, resultado impar = 1) para esse
-sorteio e anote os Bytes sorteados: eles são o Objetivo Comum do jogo. Toda
-equipe que compuser um desses Bytes ganha 2 pontos. Mas se eles não forem todos
-produzidos até a vigésima rodada (décima, na versão curta), todas as equipes
-perdem!
+Comece o jogo escolhendo o desafio geral: Projeto Dados.gov.br, Observatório
+Participatório da Juventude ou Portal da Participação Social. Eles definem o
+objetivo geral do jogo:
+
+Dados.gov.br:        10000101 — 01110010 — 01100110
+                     00011100 — 11010010 — 10111101
+Obs. Participatório: 10000101 — 01110010 — 01100110
+                     00011100 — 11010010 — 10111101
+                     01101100 — 11011101
+Portal Participação: 10000101 — 01110010 — 01100110
+                     00011100 — 11010010 — 10111101
+                     01101100 — 11011101 — 00111001
+                     10001110
+
+Toda equipe que compuser um desses Bytes ganha 2 pontos. Mas se eles não forem
+todos produzidos até a vigésima rodada, todas as equipes perdem!
 
 Em seguida cada jogador escolhe seu Desenvolvedor Inicial, recebe recursos ($2 e
 3 bits), uma carta Desenvolvedor e uma carta Software. E então começa a primeira
@@ -43,7 +53,7 @@ Expansão.
 O jogador compra duas cartas do monte. Opcionalmente, pode investir $2 para
 comprar outra carta, quantas vezes quiser.
 
-O jogador pode investir $2 para recuperar uma carta de equipe do monte de
+O jogador pode investir $2 para recuperar uma carta do monte de
 descarte, apenas uma vez por rodada.
 
 ### Infraestrutura
@@ -55,6 +65,9 @@ de invocação algum.
 
 Nesta fase, o jogador pode colocar na sua equipe uma cópia idêntica de qualquer
 Software na mesa, desde que pague o seu custo de invocação em bits.
+
+Cartas de ação podem ser jogadas nesta fase, mas elas saem do jogo depois de
+usadas, não indo para o monte de descarte.
 
 ### Implementação
 
@@ -75,8 +88,6 @@ Durante a fase de Infraestrutura, ao inserir um Desenvolvedor à mesa, insira um
   * Javascript: Desenvolvedores Javascript operam qualquer software com efeito máximo.
   * Ruby: Softwares Ruby tem custo zero para inserção ou cópia.
   * Python: Toda vez que um byte for produzido no jogo, todos os desenvolvedores Python produzem 1 bit.
-
-
 
 ### Infraestrutura 2
 
@@ -103,14 +114,6 @@ do Designer influenciando esse Byte.
   as demais.
 * O jogador só pode armazenar 7 bits, sendo forçado a descartar o excedente.
 
-### Expansão
-
-O jogador pode começar um novo Projeto, se já não estiver envolvido em um. Ao
-comprar um Projeto, o jogador ganha um objetivo privado que ao ser completado
-recompensa a equipe em dinheiro. No entanto, se ao final do jogo o Projeto não
-tiver sido executado, o jogador é forçado a pagar o seu prêmio em dinheiro ou
-pontos.
-
 ## Pontuação
 
 Existem 3 formas de pontuar:
@@ -118,9 +121,6 @@ Existem 3 formas de pontuar:
 * 3 pontos: Executando um Byte do objetivo geral
 * 2 pontos: Realizando um dos desafios coletivos
 * 1 ponto:  Executando um Byte qualquer
-
-Contam para a pontuação os projetos incompletos, quando o jogador não pode
-pagar seu prêmio em dinheiro, pagando o excedente em pontos.
 
 ## Lei de Acesso à Informação
 
