@@ -3,6 +3,16 @@
 Quantidade de jogadores: de 3 a 6 participantes  
 Duração de jogo: 2h
 
+## Prefácio
+
+Com a disseminação de tecnologias de informação e comunicação baseadas na internet, nossa sociedade tem vivido diversas transformações na forma como nos relacionamos e colaboramos em atividades e projetos comuns. A lógica horizontal, aberta e colaborativa do Software Livre demonstrou nos últimos anos sua capacidade de agregar conhecimento e inteligência na construção de artefatos extremamente complexos como os sistemas operacionais nos quais a internet é baseada. Avançando para outros campos como a cultura, educação e política, a lógica do Software Livre tem influenciado decisivamente na superação de velhos paradigmas e preconceitos, promovendo práticas livres e abertas em diversos setores da sociedade.
+
+É nesse espírito que surge a proposta do DATAHACKER. Um jogo que possa, a partir de um universo lúdico, promover o entendimento e reflexão sobre a lógica de funcionamento das comunidades de criação de código na internet, simulando a lógica das licenças abertas, linguagens e liberdade do conhecimento, tornando a solução de desafios comuns como objetivo principal do jogo. A partir dessa experiência, podemos ampliar essa reflexão para os processos políticos e para a Participação Social que, a partir da internet, vem sendo desafiada a incorporar as linguagens e práticas dos ambientes distribuídos da rede.
+
+Como não podia deixar de ser, o jogo foi criado e balanceado fazendo uso das tecnologias e metodologias de colaboração das comunidades de código livre, tendo sido desenvolvido num ambiente baseado em GIT, onde todas as etapas de criação do jogo estão a disposição da sociedade Brasileira. O repositório público do jogo poderá ser acessado e replicado por qualquer cidadão, tanto no intuito de estudar o processo de criação quanto para modificar ou remixar o jogo para outros contextos. 
+
+Datahacker: Jogue, aprenda, aproprie-se e remixe!
+
 ## Objetivos
 
 Datahack é um jogo colaborativo onde os participantes devem compor suas equipes
