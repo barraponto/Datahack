@@ -15,20 +15,18 @@ Datahacker: Jogue, aprenda, aproprie-se e remixe!
 
 ## Objetivos
 
-Datahack é um jogo colaborativo onde os participantes devem compor suas equipes
-para produzir informação pública e liberar informação relevante para a
-sociedade. A informação é representada por Bytes, formados por bits produzidos
-por Desenvolvedores e definidos por Designers.
+Datahack é um jogo colaborativo onde os participantes devem compor suas equipes para produzir software e informação pública e liberar códigos relevantes para a sociedade. A informação é representada por Bytes, formados por bits produzidos por Desenvolvedores e definidos por Designers.
+
+O trabalho no jogo é desenvolvido com base nos princípios de colaboração das comunidades de código. As opções para o objetivo geral do jogo se baseiam em projetos de governo baseados em Software Livre que utilizam metodologia colaborativa em seu desenvolvimento. Todo código produzido pelas equipes é público e pode ser usado tanto no objetivo geral do jogo quanto nos projetos específicos das equipes.
 
 ## Jogo
 
-Comece o jogo escolhendo o desafio geral: Projeto Dados.gov.br, Observatório
-Participatório da Juventude ou Portal da Participação Social. Eles definem o
+Comece o jogo escolhendo o desafio geral: Projeto Dados.gov.br, Participatório da Juventude ou Portal da Participação Social. Eles definem o
 objetivo geral do jogo:
 
 Dados.gov.br:        10000101 — 01110010 — 01100110
                      00011100 — 11010010 — 10111101
-Obs. Participatório: 10000101 — 01110010 — 01100110
+Participatório: 10000101 — 01110010 — 01100110
                      00011100 — 11010010 — 10111101
                      01101100 — 11011101
 Portal Participação: 10000101 — 01110010 — 01100110
@@ -36,12 +34,9 @@ Portal Participação: 10000101 — 01110010 — 01100110
                      01101100 — 11011101 — 00111001
                      10001110
 
-Toda equipe que compuser um desses Bytes ganha 2 pontos. Mas se eles não forem
-todos produzidos até a vigésima rodada, todas as equipes perdem!
+Toda equipe que compuser um desses Bytes ganha 2 pontos. Mas se eles não forem todos produzidos até a vigésima rodada, todas as equipes perdem!
 
-Em seguida cada jogador escolhe seu Desenvolvedor Inicial, recebe recursos ($2 e
-3 bits), uma carta Desenvolvedor e uma carta Software. E então começa a primeira
-rodada.
+Em seguida cada jogador escolhe seu Desenvolvedor Inicial, recebe recursos ($2 e 3 bits), uma carta Desenvolvedor e uma carta Software. E então começa a primeira rodada.
 
 ## Eventos
 
