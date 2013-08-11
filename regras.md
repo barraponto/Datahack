@@ -79,59 +79,71 @@ Em seguida cada jogador escolhe seu Desenvolvedor Inicial, recebe
 
 ## Eventos
 
-Ao começo de cada rodada, pegue o Evento no topo da pilha de Eventos e leia em
-voz alta. O Evento afeta todas as Equipes, podendo ser um Bug (efeitos
-negativos) ou um Encontro (desafios coletivos que recompensam em pontos).
+Ao começo de cada rodada, pegue o Evento no topo da pilha de Eventos e
+ leia em voz alta. O Evento afeta todas as Equipes, podendo ser um Bug
+ (efeitos negativos) ou um Encontro (desafios coletivos que recompensam
+ em pontos).
 
-Bugs não acontecem na primeira rodada: puxe outra carta do topo da pilha até
-aparecer um Encontro.
+Bugs não acontecem na primeira rodada: puxe outra carta do topo da pilha
+ até aparecer um Encontro. Encontros são parte importante da cultura do
+ software livre, promovendo momentos de aprendizado e produção de
+ códigos. Também são momentos de intercâmbio entre as comunidades de
+ código, envolvendo desenvolvedores, acadêmicos, servidores públicos e
+ demais entusiastas ligados ao software livre e cultura hacker.
 
 ## Turnos
 
-Cada jogador, na sua vez, passa por uma série de fases, na ordem: Captação,
-Infraestrutura, Implementação, Infraestrutura 2, Publicação, Manutenção e
-Expansão.
+Cada jogador, na sua vez, passa por uma série de fases, na ordem:
+ Captação, Infraestrutura, Implementação, Infraestrutura 2, Publicação, Manutenção e Expansão.
 
 ### Captação
 
-O jogador compra duas cartas do monte. Opcionalmente, pode investir $2 para
-comprar outra carta, quantas vezes quiser.
+O jogador compra duas cartas do monte. Opcionalmente, pode investir $2
+ para comprar outra carta, quantas vezes quiser.
 
-O jogador pode investir $2 para recuperar uma carta do monte de
-descarte, apenas uma vez por rodada.
+O jogador pode investir $2 para recuperar uma carta do monte de descarte,
+ apenas uma vez por rodada.
 
 ### Infraestrutura
 
-O jogador pode descer quantas cartas quiser, desde que possa pagar seu custo
-de invocação. Cartas de Hardware tem custo de invocação em dinheiro, enquanto
-cartas de Software tem custo de invocação em bits. Equipe e Ações não tem custo
-de invocação algum.
+O jogador pode descer quantas cartas quiser, desde que possa pagar seu
+ custo de invocação. Cartas de Hardware tem custo de invocação em
+ dinheiro, enquanto cartas de Software tem custo de invocação em bits.
+ Equipe e Ações não tem custo de invocação algum.
 
-Nesta fase, o jogador pode colocar na sua equipe uma cópia idêntica de qualquer
-Software na mesa, desde que pague o seu custo de invocação em bits.
+Nesta fase, o jogador pode colocar na sua equipe uma cópia idêntica de
+ qualquer Software na mesa, desde que pague o seu custo de invocação em
+ bits.
 
-Cartas de ação podem ser jogadas nesta fase, mas elas saem do jogo depois de
-usadas, não indo para o monte de descarte.
+Cartas de ação podem ser jogadas nesta fase, mas elas saem do jogo
+ depois de usadas, não indo para o monte de descarte.
 
 ### Implementação
 
-Os Desenvolvedores produzem, cada um, bits ou dinheiro. À exceção do
-Desenvolvedor Inicial, todos os outros Desenvolvedores só podem produzir bits se
-tiverem um Software para operar, indiferente da Linguagem. Mas se a Linguagem do
-Desenvolvedor e do Software forem a mesma, dispara-se o Efeito Máximo do
-Software, como descrito na carta.
+Os Desenvolvedores produzem, cada um, bits ou dinheiro. À exceção do Desenvolvedor Inicial, todos os outros Desenvolvedores só podem produzir
+ bits se tiverem um Software para operar, indiferente da Linguagem. Mas se a
+ Linguagem do Desenvolvedor e do Software forem a mesma, dispara-se o
+ Efeito Máximo do Software, como descrito na carta.
 
 #### Sinergia
 
-Durante a fase de Infraestrutura, ao inserir um Desenvolvedor à mesa, insira um ponto de sinergia na linguagem correspondente a este desenvolvedor. Conforme o número de pontos de sinergia, a linguagem específica é afetada conforme as indicações abaixo:
+Durante a fase de Infraestrutura, ao inserir um Desenvolvedor à mesa, insira
+ um ponto de sinergia na linguagem correspondente a este desenvolvedor.
+ Conforme o número de pontos de sinergia, a linguagem específica é afetada
+ conforme as indicações abaixo:
 
-* 2+ pontos: Todos os desenvolvedores desta linguagem produzem um bit a mais na fase de Implementação.
-* 4+ pontos: Qualquer desenvolvedor opera software desta linguagem com efeito máximo
+* 2+ pontos: Todos os desenvolvedores desta linguagem produzem um bit a
+ mais na fase de Implementação.
+* 4+ pontos: Qualquer desenvolvedor opera software desta linguagem com
+ efeito máximo
 * 6 pontos:
-  * PHP: Softwares de outras linguagens custam 2 bits a mais para serem inseridos no jogo.
-  * Javascript: Desenvolvedores Javascript operam qualquer software com efeito máximo.
+  * PHP: Softwares de outras linguagens custam 2 bits a mais para serem
+ inseridos no jogo.
+  * Javascript: Desenvolvedores Javascript operam qualquer software com
+ efeito máximo.
   * Ruby: Softwares Ruby tem custo zero para inserção ou cópia.
-  * Python: Toda vez que um byte for produzido no jogo, todos os desenvolvedores Python produzem 1 bit.
+  * Python: Toda vez que um byte for produzido no jogo, todos os
+ desenvolvedores Python produzem 1 bit.
 
 ### Infraestrutura 2
 
@@ -140,23 +152,24 @@ O jogador pode descer mais cartas, como na primeira fase de Infraestrutura.
 ### Publicação
 
 A equipe produz Bytes a partir dos bits acumulados, se somarem 8 bits ou
-mais. Para definir a sequência de bits, joga-se o dado binário, junto com o
-dado dos Designers se houver algum na equipe. Cada Designer pode influenciar 1
-Byte por rodada.
+ mais. Para definir a sequência de bits, joga-se o dado binário, junto com o
+ dado dos Designers se houver algum na equipe. Cada Designer pode
+ influenciar 1 Byte por rodada.
 
-O dado dos designers sempre retorna um resultado de 1 a 5, sendo permitido ao
-jogador decidir o valor do bit sempre que o resultado for menor do que o poder
-do Designer influenciando esse Byte.
+O dado dos designers sempre retorna um resultado de 1 a 5, sendo permitido
+ ao jogador decidir o valor do bit sempre que o resultado for menor do que o
+ poder do Designer influenciando esse Byte.
 
 ### Manutenção
 
 * O jogador paga $1 por cada membro da Equipe, exceto o Desenvolvedor
-  Inicial.
+ Inicial.
 * O jogador tem o direito de preservar 1 Software por Desenvolvedor, sendo
-  forçado a descartar o excesso.
+ forçado a descartar o excesso.
 * O jogador só pode manter até 4 cartas na mão, sendo forçado a descartar
   as demais.
-* O jogador só pode armazenar 7 bits, sendo forçado a descartar o excedente.
+* O jogador só pode armazenar 7 bits, sendo forçado a descartar o
+ excedente.
 
 ## Pontuação
 
@@ -168,11 +181,25 @@ Existem 3 formas de pontuar:
 
 ## Lei de Acesso à Informação
 
-A Lei de Acesso à Informação é um evento que ocorre naturalmente na 15a rodada
-do jogo (8a no jogo curto). A partir do momento em que a LAI entra em jogo,
-todos os desenvolvedores passam a produzir 50% a mais em bits, arredondado para
-cima.
+O Brasil promulgou recentemente sua Lei de Acesso a Informação, um marco
+ para a cidadania por permitir que a cultura da publicidade seja a regra na
+ administração pública e que milhões de cidadãos tenham garantido o direito
+ de obter dos órgãos governamentais qualquer informação pública que esteja
+ sob sua guarda.
 
-Algumas cartas afetam a chegada da LAI, adiantando ou adiando o turno em que ela
-entra em jogo. Para deixar isso visível, usa-se um marcador da LAI sobre o
-tabuleiro de rodadas.
+Uma lei jovem e que contou com a participação de diversos setores da
+ sociedade Brasileira, nossa Lei de Acesso a Informação é também uma das
+ mais modernas do mundo, abrigando a previsão da publicação de dados
+ abertos e legíveis por máquinas. Dessa forma, a nossa LAI - como é
+ chamada pelos íntimos - garante importante recursos para os hackers
+ cívicos da sociedade Brasileira, potencializando a construção de códigos de
+ forma colaborativa entre a população e os governos.
+
+No jogo, a Lei de Acesso à Informação é um evento que ocorre naturalmente
+ na 15a rodada (8a no jogo curto). A partir do momento em que a LAI entra
+ em jogo, todos os desenvolvedores passam a produzir 50% a mais em bits,
+ arredondado para cima.
+
+Algumas cartas afetam a chegada da LAI, adiantando ou adiando o turno em
+ que ela entra em jogo. Para deixar isso visível, usa-se um marcador da LAI
+ sobre o tabuleiro de rodadas.
