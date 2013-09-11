@@ -12,6 +12,7 @@
   titulo: Sprint
   texto: Pode juntar, voluntariamente, bits de todos os jogadores para formar um Byte.
     Ele é definido pelo melhor Designer na mesa.
+  copias: 
 - id: A005
   titulo: Recrutamento
   texto: Pague $2 e pegue qualquer carta de equipe no monte, depois reembaralhe.
@@ -19,3 +20,4 @@
 - id: A006
   titulo: Crowdfunding
   texto: Pega $1 de cada equipe.
+  copias: 
