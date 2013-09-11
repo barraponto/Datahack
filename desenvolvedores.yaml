@@ -1,0 +1,121 @@
+---
+- id: H001
+  titulo: Ryan Dahl
+  linguagem: Javascript
+  bits: 2
+  renda: 3
+- id: H002
+  titulo: Mike Bostock
+  linguagem: Javascript
+  bits: 2
+  renda: 2
+- id: H003
+  titulo: John Resig
+  linguagem: Javascript
+  bits: 4
+  renda: 1
+- id: H005
+  titulo: TJ Holowaychuck
+  linguagem: Javascript
+  bits: 4
+  renda: 2
+- id: H006
+  titulo: Jeremy Ashkenas
+  linguagem: Javascript
+  bits: 3
+  renda: 3
+- id: H007
+  titulo: Matt Mullenweg
+  linguagem: PHP
+  bits: 2
+  renda: 4
+- id: H008
+  titulo: Dries Buytaert
+  linguagem: PHP
+  bits: 3
+  renda: 3
+- id: H010
+  titulo: Michel Fortin
+  linguagem: PHP
+  bits: 2
+  renda: 2
+- id: H011
+  titulo: Angela Byron
+  linguagem: PHP
+  bits: 3
+  renda: 1
+- id: H012
+  titulo: Fabien Potencier
+  linguagem: PHP
+  bits: 4
+  renda: 1
+- id: H013
+  titulo: Guido Von Rossum
+  linguagem: Python
+  bits: 3
+  renda: 3
+- id: H015
+  titulo: Lynn Root
+  linguagem: Python
+  bits: 3
+  renda: 2
+- id: H016
+  titulo: Mark Pilgrim
+  linguagem: Python
+  bits: 2
+  renda: 4
+- id: H017
+  titulo: Aaron Swartz
+  linguagem: Python
+  bits: 5
+  renda: 0
+- id: H018
+  titulo: Pablo Hoffman
+  linguagem: Python
+  bits: 3
+  renda: 1
+- id: H020
+  titulo: Yukihiro Matsumoto
+  linguagem: Ruby
+  bits: 2
+  renda: 2
+- id: H021
+  titulo: David Heinemeier Hansson
+  linguagem: Ruby
+  bits: 2
+  renda: 4
+- id: H022
+  titulo: Why the Lucky Stiff
+  linguagem: Ruby
+  bits: 3
+  renda: 2
+- id: H023
+  titulo: Scott Chacon
+  linguagem: Ruby
+  bits: 3
+  renda: 3
+- id: H024
+  titulo: Nathan Weizenbaum
+  linguagem: Ruby
+  bits: 3
+  renda: 1
+- id: H025
+  titulo: Jean Carlo Emer
+  linguagem: Desenvolvedor Javascript
+  bits: 2
+  renda: 2
+- id: H026
+  titulo: Alexandre Gaigalas
+  linguagem: Desenvolvedor PHP
+  bits: 3
+  renda: 2
+- id: H027
+  titulo: Luciano Ramalho
+  linguagem: Desenvolvedor Python
+  bits: 1
+  renda: 3
+- id: H028
+  titulo: José Valim
+  linguagem: Desenvolvedor Ruby
+  bits: 2
+  renda: 3

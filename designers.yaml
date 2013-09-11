@@ -1,36 +1,37 @@
-D001:
+---
+- id: D001
   titulo: Mark Boulton
-  bits:   4
-D002:
+  bits: 4
+- id: D002
   titulo: Eric Meyer
-  bits:   2
-D004:
+  bits: 2
+- id: D004
   titulo: Mark Otto
-  bits:   4
-D006:
+  bits: 4
+- id: D006
   titulo: Luke Wroblewski
-  bits:   2
-D007:
+  bits: 2
+- id: D007
   titulo: Rachel Nabors
-  bits:   2
-D008:
+  bits: 2
+- id: D008
   titulo: Jason Santa Maria
-  bits:   3
-D009:
+  bits: 3
+- id: D009
   titulo: Ethan Marcotte
-  bits:   3
-D010:
+  bits: 3
+- id: D010
   titulo: Mason Wendell
-  bits:   1
-D013:
+  bits: 1
+- id: D013
   titulo: Jen Mylo
-  bits:   3
-D015:
+  bits: 3
+- id: D015
   titulo: Jina Bolton
-  bits:   2
-D017:
+  bits: 2
+- id: D017
   titulo: Zeno Rocha
-  bits:   1
-D018:
+  bits: 1
+- id: D018
   titulo: Bernard de Luna
-  bits:   1
+  bits: 1

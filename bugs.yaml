@@ -1,0 +1,26 @@
+---
+- id: E001
+  titulo: Falha de segurança
+  texto: Pague novamente o custo do seu Software mais caro ou perca-o.
+- id: E003
+  titulo: Incêndio
+  texto: Descarte todos os Hardwares.
+- id: E008
+  titulo: Firewall Paranóico
+  texto: Nenhum Software pode ser introduzido ou copiado.
+- id: E009
+  titulo: Má Documentação
+  texto: Nenhum Software pode ser usado com seu efeito máximo.
+- id: E010
+  titulo: Incompatibilidade de versões
+  texto: Só um software de cada linguagem pode ser usado pela equipe.
+- id: E011
+  titulo: Problemas com codificação de caracteres
+  texto: Todos os desenvolvedors produzem 1 bit ou $1 a menos.
+- id: E015
+  titulo: Prazo Limite
+  texto: Todos os Desenvolvedores são forçados a produzir bits.
+- id: E016
+  titulo: Corte de Verbas
+  texto: Todos os jogadores despedem um membro da sua equipe. Nenhuma carta pode ser
+    recuperada do descarte nesta rodada.

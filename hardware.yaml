@@ -1,0 +1,44 @@
+---
+- id: W001
+  titulo: Ônibus Hacker
+  texto: Quando o Ônibus Hacker entra em jogo, pegue um Desenvolvedor de outra equipe.
+    Você pode pegar $1 de cada jogador para pagar o Ônibus Hacker.
+  custo: 5
+- id: H002
+  titulo: Smartphone / Tablet
+  texto: Um Designer passa a render 1 bit a mais.
+  custo: 2
+- id: H003
+  titulo: Tomato RAF
+  texto: O custo de Software cai em 1 bit se o Evento atual não for um Bug.
+  custo: 1
+- id: H004
+  titulo: Churrasqueira / Geladeira
+  texto: O custo dos seus desenvolvedores sobe em $1. Todos passam a render 2 bits
+    a mais.
+  custo: 2
+- id: H005
+  titulo: Mesa de Sinuca
+  texto: Seus desenvolvedores passam a render $1 ou 1 bit a mais, se não houver um
+    Gerente de Projeto na Equipe.
+  custo: 3
+- id: H006
+  titulo: Data Center (x3)
+  texto: Evita o efeito do Bug 4 vezes, depois sai de jogo.
+  custo: 3
+- id: H007
+  titulo: Fibra ótica
+  texto: Pague $1 e compre outra carta.
+  custo: 1
+- id: H008
+  titulo: Thinkpad
+  texto: Um desenvolvedor rende 1 bit a mais. Thinkpad não pode sair de jogo.
+  custo: 1
+- id: H009
+  titulo: Poltrona Aeron
+  texto: Seus desenvolvedores não podem sair da equipe (exceto por salário).
+  custo: 4
+- id: H010
+  titulo: Livro do Animal (x2)
+  texto: Pague 1 bit para ativar o efeito de qualquer software.
+  custo: 2
