@@ -26,15 +26,26 @@ Comece o jogo escolhendo o desafio geral: Projeto Dados.gov.br, Observatório
 Participatório da Juventude ou Portal da Participação Social. Eles definem o
 objetivo geral do jogo:
 
-Dados.gov.br:        10000101 — 01110010 — 01100110
-                     00011100 — 11010010 — 10111101
-Obs. Participatório: 10000101 — 01110010 — 01100110
-                     00011100 — 11010010 — 10111101
-                     01101100 — 11011101
-Portal Participação: 10000101 — 01110010 — 01100110
-                     00011100 — 11010010 — 10111101
-                     01101100 — 11011101 — 00111001
-                     10001110
+Dados.gov.br:
+```
+10000101 — 01110010 — 01100110 
+00011100 — 11010010 — 10111101
+```
+
+Obs. Participatório: 
+```
+10000101 — 01110010 — 01100110
+00011100 — 11010010 — 10111101
+01101100 — 11011101
+```
+
+Portal Participação: 
+```
+10000101 — 01110010 — 01100110
+00011100 — 11010010 — 10111101
+01101100 — 11011101 — 00111001
+10001110
+```
 
 Toda equipe que compuser um desses Bytes ganha 2 pontos. Mas se eles não forem
 todos produzidos até a vigésima rodada, todas as equipes perdem!
