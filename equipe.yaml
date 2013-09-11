@@ -26,13 +26,13 @@
 - id: O008
   titulo: 'Gerente de Projetos: UserStories'
   texto: Cada Designer define 1 bit a mais.
-- id: 0009
+- id: O009
   titulo: Participação Social
   texto: Reproduz o poder básico de um desenvolvedor ou designer de outra equipe.
-- id: 8
+- id: O010
   titulo: Hacker do Governo
   texto: Aumenta dois pontos nos marcadores de sinergia de uma linguagem à escolha.
-- id: 9
+- id: O011
   titulo: Gestor Governamental
   texto: Olha os dois próximos eventos do monte. Coloca um no topo do monte e outro
     no fundo.
