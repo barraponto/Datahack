@@ -1,120 +1,121 @@
-H001:
+---
+- id: H001
   titulo: Ryan Dahl
-  tipo:   Javascript
-  bits:   2
-  renda:  3
-H002:
+  linguagem: Javascript
+  bits: 2
+  renda: 3
+- id: H002
   titulo: Mike Bostock
-  tipo:   Javascript
-  bits:   2
-  renda:  2
-H003:
+  linguagem: Javascript
+  bits: 2
+  renda: 2
+- id: H003
   titulo: John Resig
-  tipo:   Javascript
-  bits:   4
-  renda:  1
-H005:
+  linguagem: Javascript
+  bits: 4
+  renda: 1
+- id: H005
   titulo: TJ Holowaychuck
-  tipo:   Javascript
-  bits:   4
-  renda:  2
-H006:
+  linguagem: Javascript
+  bits: 4
+  renda: 2
+- id: H006
   titulo: Jeremy Ashkenas
-  tipo:   Javascript
-  bits:   3
-  renda:  3
-H007:
+  linguagem: Javascript
+  bits: 3
+  renda: 3
+- id: H007
   titulo: Matt Mullenweg
-  tipo:   PHP
-  bits:   2
-  renda:  4
-H008:
+  linguagem: PHP
+  bits: 2
+  renda: 4
+- id: H008
   titulo: Dries Buytaert
-  tipo:   PHP
-  bits:   3
-  renda:  3
-H010:
+  linguagem: PHP
+  bits: 3
+  renda: 3
+- id: H010
   titulo: Michel Fortin
-  tipo:   PHP
-  bits:   2
-  renda:  2
-H011:
+  linguagem: PHP
+  bits: 2
+  renda: 2
+- id: H011
   titulo: Angela Byron
-  tipo:   PHP
-  bits:   3
-  renda:  1
-H012:
+  linguagem: PHP
+  bits: 3
+  renda: 1
+- id: H012
   titulo: Fabien Potencier
-  tipo:   PHP
-  bits:   4
-  renda:  1
-H013:
+  linguagem: PHP
+  bits: 4
+  renda: 1
+- id: H013
   titulo: Guido Von Rossum
-  tipo:   Python
-  bits:   3
-  renda:  3
-H015:
+  linguagem: Python
+  bits: 3
+  renda: 3
+- id: H015
   titulo: Lynn Root
-  tipo:   Python
-  bits:   3
-  renda:  2
-H016:
+  linguagem: Python
+  bits: 3
+  renda: 2
+- id: H016
   titulo: Mark Pilgrim
-  tipo:   Python
-  bits:   2
-  renda:  4
-H017:
+  linguagem: Python
+  bits: 2
+  renda: 4
+- id: H017
   titulo: Aaron Swartz
-  tipo:   Python
-  bits:   5
-  renda:  0
-H018:
+  linguagem: Python
+  bits: 5
+  renda: 0
+- id: H018
   titulo: Pablo Hoffman
-  tipo:   Python
-  bits:   3
-  renda:  1
-H020:
+  linguagem: Python
+  bits: 3
+  renda: 1
+- id: H020
   titulo: Yukihiro Matsumoto
-  tipo:   Ruby
-  bits:   2
-  renda:  2
-H021:
+  linguagem: Ruby
+  bits: 2
+  renda: 2
+- id: H021
   titulo: David Heinemeier Hansson
-  tipo:   Ruby
-  bits:   2
-  renda:  4
-H022:
+  linguagem: Ruby
+  bits: 2
+  renda: 4
+- id: H022
   titulo: Why the Lucky Stiff
-  tipo:   Ruby
-  bits:   3
-  renda:  2
-H023:
+  linguagem: Ruby
+  bits: 3
+  renda: 2
+- id: H023
   titulo: Scott Chacon
-  tipo:   Ruby
-  bits:   3
-  renda:  3
-H024:
+  linguagem: Ruby
+  bits: 3
+  renda: 3
+- id: H024
   titulo: Nathan Weizenbaum
-  tipo:   Ruby
-  bits:   3
-  renda:  1
-H025:
+  linguagem: Ruby
+  bits: 3
+  renda: 1
+- id: H025
   titulo: Jean Carlo Emer
-  tipo:   Desenvolvedor Javascript
-  bits:   2
-  renda:  2
-H026:
+  linguagem: Desenvolvedor Javascript
+  bits: 2
+  renda: 2
+- id: H026
   titulo: Alexandre Gaigalas
-  tipo:   Desenvolvedor PHP
-  bits:   3
-  renda:  2
-H027:
+  linguagem: Desenvolvedor PHP
+  bits: 3
+  renda: 2
+- id: H027
   titulo: Luciano Ramalho
-  tipo:   Desenvolvedor Python
-  bits:   1
-  renda:  3
-H028:
+  linguagem: Desenvolvedor Python
+  bits: 1
+  renda: 3
+- id: H028
   titulo: José Valim
-  tipo:   Desenvolvedor Ruby
-  bits:   2
-  renda:  3
+  linguagem: Desenvolvedor Ruby
+  bits: 2
+  renda: 3
